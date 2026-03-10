@@ -61,9 +61,8 @@ Trained a **Multinomial Naive Bayes classifier**, which works well for text clas
 Evaluated the model using:
 
 * Accuracy
-* Confusion Matrix
-* Classification Report
-* 
+
+  
 ## Results
 
 * Model: **Multinomial Naive Bayes**
@@ -79,6 +78,5 @@ The model performs well considering the **small dataset size** and simple featur
 * Label Encoding
 * Naive Bayes Classification
 * Train/Test Split
-* Confusion Matrix
-
+  
 Created as part of an **NLP learning project** to understand text preprocessing, vectorization, and sentiment classification using machine learning.
