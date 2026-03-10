@@ -2,7 +2,7 @@
 Sentiment analysis using count vectorizer and multinomial naive bias.
 # Sentiment Analysis using Naive Bayes (NLP Project)
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a **Sentiment Analysis system** using Natural Language Processing (NLP).
 The goal of the model is to classify text messages into **Positive, Negative, or Neutral sentiment**.
@@ -21,7 +21,7 @@ The project demonstrates the complete **NLP pipeline**, including data explorati
 * Negative: 178
 * Neutral: 167
 * 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Jupyter Notebook
